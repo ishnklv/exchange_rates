@@ -1,0 +1,9 @@
+static/
+/static/
+/img/
+img/
+.DS_Store/
+/.DS_Store/
+*.log
+.idea/
+/.idea/
