@@ -2,7 +2,6 @@ const CURRENCY_CODE = {
     USD: 'USD',
     EUR: 'EUR',
     RUB: 'RUB',
-    RUB: 'RUB',
 }
 
 const getToday = () => {
